@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  expense_invoice: 1
+  expense_details: MyString
+  expense_status: MyString
+  expense_amount: 1
+  expense_document: MyString
+  expense_date: 2023-02-17
+  employee: one
+
+two:
+  expense_invoice: 1
+  expense_details: MyString
+  expense_status: MyString
+  expense_amount: 1
+  expense_document: MyString
+  expense_date: 2023-02-17
+  employee: two

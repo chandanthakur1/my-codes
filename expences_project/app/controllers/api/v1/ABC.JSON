@@ -1,0 +1,309 @@
+{
+    "_id": {
+      "$oid": "62c8012fb1c8b5001b39fb46"
+    },
+    "client_security_preferences": {},
+    "recommendation_details": {},
+    "facility_limit": {
+      "$numberLong": "20000000000"
+    },
+    "security_type": "secured",
+    "end_use": "purchase_of_equipment",
+    "preferred_investors": {
+      "type": "all",
+      "entity_ids": []
+    },
+    "tenor": {
+      "years": 3,
+      "months": 0,
+      "days": 0
+    },
+    "interest": {
+      "type": "fixed",
+      "value": 23
+    },
+    "loan_type": "new_loan",
+    "purchase_status_of_commercial_property": null,
+    "existing_lendor_name": null,
+    "existing_tenor": null,
+    "existing_interest": null,
+    "prop_type": "industrial",
+    "prop_approx_value": 230000000,
+    "prop_current_state": "rented",
+    "prop_vintage_years": 23,
+    "is_co_borrower_available": false,
+    "address": {
+      "house_street_area": "500",
+      "pincode": 344354,
+      "state": "Chandigarh",
+      "city": "Chandigarh"
+    },
+    "transaction_state": "released",
+    "dms_enabled": false,
+    "_type": "LoanAgainstProperty::Transaction",
+    "customer_id": {
+      "$oid": "62b9453007fcca0055729102"
+    },
+    "last_updated_by": {
+      "$oid": "6328117e5f3672004f06d512"
+    },
+    "_keywords": [
+      "07",
+      "2022",
+      "com",
+      "lap",
+      "partneryubi",
+      "t3",
+      "yopmail"
+    ],
+    "released_on": "2022-08-19",
+    "tenor_in_months": 36,
+    "loan_to_value_ratio": 8695.65,
+    "updated_at": {
+      "$date": {
+        "$numberLong": "1674236796979"
+      }
+    },
+    "created_at": {
+      "$date": {
+        "$numberLong": "1657274671793"
+      }
+    },
+    "created_by": {
+      "$oid": "62b9453207fcca0055729103"
+    },
+    "client_name": "Partneryubi@yopmail.com",
+    "trust_name": "Partneryubi@yopmail.com LAP 07 2022 T3",
+    "deal_name": "Partneryubi@yopmail.com LAP 07 2022 T3",
+    "client_preferences": {
+      "facility_limit": {
+        "$numberLong": "20000000000"
+      },
+      "tenor": {
+        "years": 3,
+        "months": 0,
+        "days": 0
+      },
+      "tenor_in_months": 36,
+      "interest": {
+        "type": "fixed",
+        "value": 23
+      },
+      "end_use": "purchase_of_equipment",
+      "loan_type": "new_loan",
+      "prop_type": "industrial",
+      "prop_approx_value": 230000000,
+      "prop_current_state": "rented",
+      "prop_vintage_years": 23,
+      "address": {
+        "house_street_area": "500",
+        "pincode": 344354,
+        "state": "Chandigarh",
+        "city": "Chandigarh"
+      },
+      "is_co_borrower_available": false,
+      "loan_to_value_ratio": 8695.65,
+      "security_type": "secured"
+    },
+    "investor_interest_base_counter": 0,
+    "slug_id": "LAP00000239",
+    "asset_class": "others",
+    "rating": null,
+    "rating_agency": null,
+    "investor_interests": [
+      {
+        "_id": {
+          "$oid": "62c804d331726506b0239ace"
+        },
+        "current_state": "pending_for_approval",
+        "_type": "InvestorInterest",
+        "investor_id": {
+          "$oid": "61cac79f61d7d16ae73afe3b"
+        },
+        "last_updated_by": {
+          "$oid": "618b568bfb32e82818dd3382"
+        },
+        "state_info": {
+          "pending_for_approval": {
+            "comments": null,
+            "state_last_updated_at": {
+              "$date": {
+                "$numberLong": "1668665938746"
+              }
+            },
+            "updated_by": {
+              "id": "618b568bfb32e82818dd3382",
+              "name": "Shailesh kumar",
+              "email": "shailesh@gmail.com",
+              "ip_addr": null
+            }
+          }
+        },
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1668665938764"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1657275603644"
+          }
+        },
+        "created_by": {
+          "$oid": "5da40f0274a0f370a1fa941b"
+        },
+        "user_info": {
+          "id": "5da40f0274a0f370a1fa941b",
+          "name": "ben",
+          "email": "ben@gmail.com",
+          "ip_addr": null
+        },
+        "is_auto_ei": false
+      }
+    ],
+    "gc_investors": [],
+    "property_data": [
+      {
+        "_id": {
+          "$oid": "6396e041d786ce2ddf76b11d"
+        },
+        "prop_id": "1",
+        "prop_type": "industrial",
+        "prop_current_state": "rented",
+        "prop_approx_value": 230000000,
+        "prop_vintage_years": 23,
+        "address": {
+          "_id": {
+            "$oid": "6396e041d786ce2ddf76b11e"
+          },
+          "house_street_area": "500",
+          "pincode": 344354,
+          "state": "Chandigarh",
+          "city": "Chandigarh"
+        }
+      }
+    ],
+    "type_of_facility": "overdraft",
+    "released_on_dt": {
+      "$date": {
+        "$numberLong": "1660867200000"
+      }
+    },
+    "state_code": "TN",
+    "state_info": [
+      {
+        "_id": {
+          "$oid": "63aae65c5724433496214730"
+        },
+        "completion_status": "completed",
+        "state": "transaction_created",
+        "action_completed_by": "62b9453007fcca0055729102",
+        "updated_by": "62b9453207fcca0055729103",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1657274671793"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1657274671793"
+          }
+        }
+      },
+      {
+        "_id": {
+          "$oid": "63aae65c5724433496214731"
+        },
+        "state": "transaction_released",
+        "completion_status": "completed",
+        "action_completed_by": "62b9453007fcca0055729102",
+        "updated_by": "6328117e5f3672004f06d512",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1674485864303"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1660867200000"
+          }
+        }
+      },
+      {
+        "_id": {
+          "$oid": "63aae65c5724433496214732"
+        },
+        "state": "express_interest",
+        "completion_status": "pending",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1672144476541"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1672144476541"
+          }
+        }
+      },
+      {
+        "_id": {
+          "$oid": "63aae65c5724433496214733"
+        },
+        "state": "ipa",
+        "completion_status": "pending",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1672144476617"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1672144476617"
+          }
+        }
+      },
+      {
+        "_id": {
+          "$oid": "63aae65c5724433496214734"
+        },
+        "state": "final_sanction",
+        "completion_status": "pending",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1672144476695"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1672144476695"
+          }
+        }
+      },
+      {
+        "_id": {
+          "$oid": "63aae65c5724433496214735"
+        },
+        "state": "transaction_settled",
+        "completion_status": "pending",
+        "action_completed_by": "62b9453007fcca0055729102",
+        "updated_at": {
+          "$date": {
+            "$numberLong": "1672144476770"
+          }
+        },
+        "created_at": {
+          "$date": {
+            "$numberLong": "1672144476770"
+          }
+        }
+      }
+    ],
+    "released_entity": {
+      "_id": {
+        "$oid": "63abf113572443bac9d1fd6e"
+      },
+      "type": "all",
+      "entity_ids": []
+    }
+  }
